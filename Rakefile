@@ -4,7 +4,6 @@ require 'rake/testtask'
 require 'minitest/autorun'
 require 'minitest/pride'
 
-
 task :default do
   describe "style.css" do
     it "should have your custom code (more than 5 lines!)" do
