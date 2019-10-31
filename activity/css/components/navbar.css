@@ -1,0 +1,11 @@
+.navbar-lechonchon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  background: white;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+}
+.navbar-lechonchon img {
+  width: 50px;
+}
